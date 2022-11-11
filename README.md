@@ -9,5 +9,5 @@
 
 ## Flow
 -run npm install to install the required packages 
--move the directory to setup file 
--run npm start"# 02-tours-static" 
+-move to required directory
+-run npm start
